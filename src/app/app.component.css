@@ -1,0 +1,15 @@
+table {
+    font-family: "Segoe Print";
+    font-size: 35px;
+    text-shadow: 2px 2px 9px #823543;
+    width: 50%;
+}
+body{
+    background-image: url("https://www.wallpapersguru.com/wp-content/uploads/2015/03/color-square-background-wallpaper.jpg");
+}
+h1 {
+    font-size: 50px;
+    color: #CC99FF;
+    text-shadow: 2px 2px 5px #823543;
+    font-family: "Segoe Print";
+}
